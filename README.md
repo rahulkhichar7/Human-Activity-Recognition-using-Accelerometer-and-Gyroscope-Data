@@ -1,1 +1,0 @@
-# Human-Activity-Recognition-using-Accelerometer-and-Gyroscope-Data
